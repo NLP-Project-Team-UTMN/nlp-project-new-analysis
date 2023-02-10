@@ -15,3 +15,9 @@ Made as part of a training project on the discipline of natural language process
 - Khrupin Danila (https://github.com/DanilaStanislavovich)
 - Tamerlan Muradov (https://github.com/Tam7k)
 - Ovchinnikova Anna (https://github.com/OvchinnikovAnna)
+
+## Description of files
+<p>
+      <a href="/parser.py">parser.py</a> - the code of the site parser for the purpose of collecting news for the year.
+      In this case, the year variable is the desired year.
+</p>
