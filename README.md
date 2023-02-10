@@ -12,6 +12,6 @@ Made as part of a training project on the discipline of natural language process
 
 ## Developers
 
-- Khrupin Daniela (https://github.com/DanilaStanislavovich)
+- Khrupin Danila (https://github.com/DanilaStanislavovich)
 - Tamerlan Muradov (https://github.com/Tam7k)
 - Ovchinnikova Anna (https://github.com/OvchinnikovAnna)
