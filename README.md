@@ -19,5 +19,6 @@ Made as part of a training project on the discipline of natural language process
 ## Description of files
 <p>
       <a href="/parser.py">parser.py</a> - the code of the site parser for the purpose of collecting news for the year.
-      In this case, the year variable is the desired year.
+      In this case, the year variable is the desired year. As a result of its execution, a csv file is created where the name of the news with the release time is      
+      indicated.
 </p>
