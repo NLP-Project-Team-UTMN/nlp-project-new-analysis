@@ -9,11 +9,8 @@ from nltk.stem import WordNetLemmatizer
 nltk.download('stopwords')
 nltk.download('punkt')
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn import metrics
 import keras
 from keras.preprocessing.text import Tokenizer
 from keras.utils import pad_sequences
