@@ -39,3 +39,7 @@ Made as part of a training project on the discipline of natural language process
 <p>
       <a href="/model.py">model.py</a> - this code runs for a little over an hour and the main execution time is the compilation of the model.
 </p>
+
+##
+
+The standard PEP 8 was used as the rules for writing code.
