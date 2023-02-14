@@ -100,7 +100,7 @@ max_sequence_length = max_words
 
 vocab_size = round(total_unique_words/30)
 
-tfidfconverter = TfidfVectorizer(max_features = max_sequence_length, min_df = 5, max_df = 0.7)
+tfidfconverter = TfidfVectorizer(max_features = vocab_size, min_df = 5, max_df = 0.7)
 X_lstm = tfidfconverter.fit_transform(df_new['Text']).toarray()
 Y_lstm = df_new['Class'].to_numpy()
 
