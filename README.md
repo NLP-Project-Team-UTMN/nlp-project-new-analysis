@@ -28,6 +28,9 @@ Made as part of a training project on the discipline of natural language process
 <p>
       <a href="/model.py">model.py</a> - this file contains text processing, vectorization, and the construction of a recurrent neural network model - LSTM. At the end there is a function predict, which can be used to classify the text file in which the text of the news is located.
 </p>
+<p>
+      <a href="/Report.pdf">Report.pdf</a> - detailed report on the work done.
+</p>
       
 ## Execution time
 <p>
